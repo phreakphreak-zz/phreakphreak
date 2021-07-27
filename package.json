@@ -1,0 +1,28 @@
+{
+  "name": "phreakphreak",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "scripts": {
+    "update:readme": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phreakphreak/phreakphreak.git"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "author": "Michael Zabala <wonkaphreak@gmail.com> (Mike)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phreakphreak/phreakphreak/issues"
+  },
+  "homepage": "https://github.com/phreakphreak/phreakphreak#readme"
+}

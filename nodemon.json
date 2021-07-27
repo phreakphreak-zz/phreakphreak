@@ -1,0 +1,4 @@
+{
+  "watch": ["./src/", "./package.json", "./.env"],
+  "verbose": true
+}
